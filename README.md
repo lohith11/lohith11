@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Lohith, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Lohith, an aspiring game developer🎮</div>  
   
 
 - 🔭 I’m currently working on [Planet X](https://github.com/lohith11/Planet-X)  
