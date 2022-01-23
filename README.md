@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Lohith, an aspiring game developer🎮</div>  
+# <div align="center">I'm Lohith, an aspiring game developer🎮</div>  
   
 
 - 🔭 I’m currently working on [Planet X](https://github.com/lohith11/Planet-X)  
   
 
-- 🌱 I’m currently learning Unity 3D and Unreal  
+- 🌱 I’m currently learning Unity and Unreal game engines  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -23,13 +23,13 @@
 
 
 
-### Programming Languages  
+### Programming languages  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 </div>
 
@@ -37,24 +37,26 @@
 
 
 
-### Game Engines  
+### Game engines  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /> 
-<img style="margin: 10px" src="https://img.icons8.com/ios-filled/50/000000/unreal-engine.png" alt="Unreal" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
 
-### Game Engines  
+
+
+### Othere Skills  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /> 
-<img style="margin: 10px" src="https://img.icons8.com/ios-filled/50/000000/unreal-engine.png" alt="Unreal" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td></tr></table>  
 
-<br/>
-<br/>
+<br/>  
+
 
 ## Connect with me  
 <div align="center">
@@ -75,3 +77,22 @@
 
 <br/>  
 
+
+## Recent Blog Posts  
+  
+
+<br/>  
+
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
