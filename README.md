@@ -39,7 +39,8 @@
 
 ### Game engines  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />
+<img style="margin: 10px" src="https://img.icons8.com/ios-filled/50/000000/unreal-engine.png"/ alt="Unreal" height="50">
 </div>
 
 </td><td valign="top" width="33%">
@@ -63,7 +64,7 @@
 <a href="https://github.com/lohith11" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lohith-sai-srinivas-v-163b15225/" target="_blank">
+<a href="https://www.linkedin.com/in/lohith-sai-srinivas-v-163b15225/?trk=people-guest_people_search-card&originalSubdomain=in" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
