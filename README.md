@@ -9,7 +9,7 @@
 - 🔭 Check out my latest work [Mini Minesweeper](https://github.com/lohith11/Mini-Minesweeper) 
 
 
-- 👩‍💻 Currently working on a horror survival game [Phantom Walker](https://github.com/lohith11/Phantom-Walker) 
+- 👩‍💻 Currently working on a horror survival game [Lost In The Woods](https://github.com/lohith11/Phantom-Walker) 
   
 
 - 🌱 I’m currently learning Unity and Unreal game engines  
