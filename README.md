@@ -6,7 +6,10 @@
 # <div align="center">I'm Lohith, an aspiring game developer🎮</div>  
   
 
-- 🔭 I’m currently working on [Planet X](https://github.com/lohith11/Planet-X)  
+- 🔭 Check out my latest work [Mini Minesweeper](https://github.com/lohith11/Mini-Minesweeper) 
+
+
+- 👩‍💻 Currently working on a horror survival game [Phantom Walker](https://github.com/lohith11/Phantom-Walker) 
   
 
 - 🌱 I’m currently learning Unity and Unreal game engines  
@@ -66,7 +69,9 @@
 </a>
 <a href="https://www.linkedin.com/in/lohith-sai-srinivas-v-163b15225/?trk=people-guest_people_search-card&originalSubdomain=in" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://lohithsaisrinivas.wixsite.com/portfolio" target="_blank">
+<img src=https://img.shields.io/badge/website-%23000000.svg?&style=for-the-badge&logo=web&logoColor=white alt=website style="margin-bottom: 5px;" />
 </div>  
   
 
