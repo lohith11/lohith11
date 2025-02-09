@@ -1,98 +1,51 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+<p align="center">
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" width="100%" />
+</p>
 
-# <div align="center">I'm Lohith, an aspiring game developer🎮</div>  
-  
+<h1 align="center">Hi, I'm Lohith 👋</h1>
+<p align="center">
+  Aspiring Game Developer | Unity & Unreal Enthusiast | C# & C++ Programmer
+</p>
 
-- 🔭 Check out my latest work [Mini Minesweeper](https://github.com/lohith11/Mini-Minesweeper) 
+<p align="center">
+  <a href="https://github.com/lohith11" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/lohith-sai-srinivas-v-163b15225/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://lohithsaisrinivas.wixsite.com/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
+## 🔧 My Skills
 
-- 👩‍💻 Currently working on a horror survival game [Lost In The Woods](https://github.com/lohith11/Phantom-Walker) 
-  
+### Programming Languages
+<p align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
+</p>
 
-- 🌱 I’m currently learning Unity and Unreal game engines  
-  
+### Game Engines
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Unity_Technologies_logo.svg" alt="Unity" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Unreal_Engine_logo_2019.svg" alt="Unreal Engine" height="50" />
+</p>
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+### Tools & Other Skills
+<p align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+</p>
 
-<br/>  
+## 🎮 Projects
+- **[Mini Minesweeper](https://github.com/lohith11/Mini-Minesweeper)** - A compact and fun version of Minesweeper!
+- **[Lost In The Woods](https://github.com/lohith11/Phantom-Walker)** - A survival horror game I am working on.
 
+## 📊 GitHub Stats
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Programming languages  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Game engines  
-<div align="center">  
-<img style="margin: 10px" src="https://yt3.ggpht.com/dBwhvX2iF121h0UWumMKi5_4cPclBTKIdIm3KM9KroRUcLWrLkppDf67dIDH-i_YrBAupazR=s900-c-k-c0x00ffffff-no-rj" alt="Unity" height="50" />
-<img style="margin: 10px" src="https://wpguru.co.uk/wp-content/uploads/2020/09/unreal-engine-icon-25-200x200.jpg" alt="Unreal" height="50" />
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Other Skills  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/lohith11" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/lohith-sai-srinivas-v-163b15225/?trk=people-guest_people_search-card&originalSubdomain=in" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://lohithsaisrinivas.wixsite.com/portfolio" target="_blank">
-<img src=https://img.shields.io/badge/website-%23000000.svg?&style=for-the-badge&logo=web&logoColor=white alt=website style="margin-bottom: 5px;" />
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lohith11&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-##  
-  
-
-
-
-  
-
-<br/>  
-
-
-<br />
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lohith11&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+</p>
